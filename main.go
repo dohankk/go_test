@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/dohankk/go_test/calculate"
+	"github.com/dohankk/go_test/v2/calculate"
 )
 
 func main() {
